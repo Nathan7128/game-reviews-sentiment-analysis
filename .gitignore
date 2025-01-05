@@ -1,2 +1,2 @@
 env/
-sentiment_analysis/datasets
+sentiment_analysis/datasets/*
